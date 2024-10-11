@@ -4,7 +4,7 @@ O que define a eficiência e o custo da máquina virtual é o SLA (*Service Leve
 Quanto mais alto o SLA, mais eficiente e custosa será a máquina virtual.
 Abaixo, a tabela de SLA do Microsoft Azure.
 
-| SLA     | Tempo de Inatividade                         |
+| SLA     | Tempo de Inatividade                       |||
 | :-----: | :------------------------------------------: |
 | ------- | Por Semana   | Por Mês       | Por Ano       |
 | ------- | ------------ | ------------- | ------------- |
