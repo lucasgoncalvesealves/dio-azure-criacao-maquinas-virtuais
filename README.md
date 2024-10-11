@@ -18,4 +18,4 @@ Ao criar uma máquina virtual, uma das opções de disponibilidade é a zona de 
 
 Você pode selecionar uma ou várias zonas, o que implica em várias máquinas virtuais.
 
-Por isso, é importante determinar o propósito da máquina virtual e do quanto vale a pena gastar.
+Por isso, é importante determinar o propósito da máquina virtual e seu preço.
