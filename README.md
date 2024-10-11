@@ -13,3 +13,9 @@ Abaixo, a tabela de SLA do Microsoft Azure por Tempo de Inatividade (TIna).
 | 99,95%  | 5 minutos    | 21,6 minutos  | 4,38 horas    |
 | 99,99%  | 1,01 minuto  | 4,32 minutos  | 52,56 minutos |
 | 99,999% | 6 segundos   | 25,9 segundos | 5,26 minutos  |
+
+Ao criar uma máquina virtual, uma das opções de disponibilidade é a zona de disponibilidade.
+
+Você pode selecionar uma ou várias zonas, o que implica em várias máquinas virtuais.
+
+Por isso, é importante determinar o propósito da máquina virtual e do quanto vale a pena gastar.
